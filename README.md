@@ -17,7 +17,7 @@ Surgery is the highest cost (~$83K) but delivers the best recovery outcomes (~73
 Orthopedics generates the highest revenue (~$3.4M)
 Observation & Therapy are cost-efficient but slightly lower in recovery performance
 Top doctors consistently achieve >72 recovery scores
-Average hospital stay is 16 days, indicating optimization opportunities
+The average hospital stay is 16 days, indicating optimization opportunities
 
 **🛠️ Tools & Technologies Used**
 Excel / CSV (Data Source)
