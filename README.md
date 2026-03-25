@@ -35,6 +35,7 @@ Hospital revenue optimization
 Patient outcome improvement
 Data analyst portfolio project
 
+<img width="2000" height="1125" alt="Picture1" src="https://github.com/user-attachments/assets/198860e0-1576-429d-afbe-52502266783b" />
 
 **💡 Author**
 Shreyas Sugandhi
